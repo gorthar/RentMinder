@@ -22,5 +22,6 @@ public class Lease
 
     public Property Property { get; set; }
     public List<Payment> Payments { get; set; }
+    public Tenant Tenant { get; set; }
 
 }
