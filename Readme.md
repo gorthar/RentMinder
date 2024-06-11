@@ -12,8 +12,6 @@ Currently under development
 
 1 - Clone the repository to your local machine:
 
-[git clone https://github.com/username/repository.git](https://github.com/gorthar/RentMinder.git)
-
 2 - Navigate to the project directory:
 
 cd .\backend\
